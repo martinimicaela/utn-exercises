@@ -2,7 +2,7 @@
 using namespace std;
 #include <cstdlib>
 
-//Ejercicio 3
+//Ejercicio 2
 
 int main(){
    const int sueldofijo=15000, premiofijo=2000;
